@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enmapa18
-- 👀 I’m interested in learn phyton and create new apps
-- 🌱 I’m currently learning phyton
+- 👀 I’m interested in learn python and create new apps
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects to allow me to be indepent and get $$ to leave confortable ;)
 - 📫 How to reach me on enmapa18@yahoo.com
 
